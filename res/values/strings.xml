@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">sinner</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="shop">
+        <item >台北分店</item>
+        <item >台中分店</item>
+        <item >高雄分店</item>
+        <item >台東分店</item>
+        <item >花蓮分店</item>
+        <item >宜蘭分店</item>
+        <item >美國分店</item>
+        <item >加拿大分店</item>
+        <item >肯亞分店</item>
+    </string-array>
+    <string-array name="tea">
+		<item >	陽光鮮果茶</item>
+		<item >	純釀鳳梨茶</item>
+		<item >	芒果金桔西谷米	</item>
+		<item >	百香綠茶</item>
+		<item >	百香雙響炮</item>
+		<item >	鮮檸檬綠茶</item>
+		<item >	芒果綠茶</item>
+		<item >	鮮檸檬青茶</item>
+		<item >	芒果養樂多</item>
+		<item >	金桔檸檬</item>
+		<item >	鮮檸檬紅茶</item>
+		<item >	鮮檸檬汁</item>
+		<item >	綠茶養樂多</item>
+		<item >	檸檬養樂多</item>
+    </string-array>
+    <string-array name="ice">
+		<item >	熱</item>
+		<item >	温</item>
+		<item >	常温	</item>
+		<item >	完全去冰</item>
+		<item >	小碎冰</item>
+		<item >	1/3杯冰</item>
+		<item >	1/2杯冰</item>
+		<item >	全杯冰</item>
+    </string-array>
+     <string-array name="brix">
+		<item >	無糖</item>
+		<item >	1/4糖</item>
+		<item >	1/2糖</item>
+		<item >	3/4糖</item>
+		<item >	全糖</item>
+    </string-array>
+    <string-array name="cups">
+		<item >	小杯</item>
+		<item >	中杯</item>
+		<item >	大杯</item>
+		<item >	胖胖杯</item>
+    </string-array>
+    <string-array name="cupsNumber">
+		<item >	1杯</item>
+		<item >	2杯</item>
+		<item >	3杯</item>
+		<item >	4杯</item>
+		<item >	5杯</item>
+		<item >	6杯</item>
+		<item >	7杯</item>
+		<item >	8杯</item>
+		<item >	9杯</item>
+		<item >	10杯</item>
+    </string-array>
+    
+    
+    
+    
+    
+    
+    <string name="btn_name">訂購</string>
+    <string name="btn_name2">檢視購物車</string>
+    <string name="sc_btn_name">回到訂購頁面</string>
+    <string name="sc_btn_name2">送出訂單</string>
+    <string name="order">訂購資訊</string>
+
+</resources>
